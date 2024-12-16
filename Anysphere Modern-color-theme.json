@@ -1,0 +1,93 @@
+{
+    "name": "Anysphere Modern",
+    "colors": {
+        "activityBar.activeBackground": "#181818",
+        "activityBar.background": "#181818",
+        "activityBar.border": "#1f1f1f",
+        "activityBar.foreground": "#e3e1e3",
+        "activityBar.inactiveForeground": "#7a797a",
+        "activityBarBadge.background": "#228df2",
+        "activityBarBadge.foreground": "#d6d6dd",
+        "badge.background": "#228df2",
+        "badge.foreground": "#d6d6dd",
+        "breadcrumb.activeSelectionForeground": "#d6d6dd",
+        "breadcrumb.background": "#181818",
+        "breadcrumb.focusForeground": "#d6d6dd",
+        "breadcrumb.foreground": "#a6a6a6",
+        "button.background": "#228df2",
+        "button.foreground": "#e6e6ed",
+        "button.hoverBackground": "#359dff",
+        "button.secondaryBackground": "#1d1d1d",
+        "button.secondaryForeground": "#d6d6dd",
+        "button.secondaryHoverBackground": "#303030",
+        "checkbox.background": "#1d1d1d",
+        "checkbox.border": "#4f4f4f",
+        "checkbox.foreground": "#d6d6dd",
+        "commandCenter.activeBackground": "#1d1d1d",
+        "commandCenter.background": "#292929",
+        "commandCenter.foreground": "#c1c1c1",
+        "debugExceptionWidget.background": "#1d1d1d",
+        "debugExceptionWidget.border": "#383838",
+        "debugToolBar.background": "#343334",
+        "debugToolBar.border": "#383838",
+        "diffEditor.border": "#383838",
+        "diffEditor.insertedTextBackground": "#83d6c530",
+        "diffEditor.insertedTextBorder": "#d6d6dd00",
+        "diffEditor.removedTextBackground": "#f14c4c30",
+        "diffEditor.removedTextBorder": "#d6d6dd00",
+        "dropdown.background": "#1d1d1d",
+        "dropdown.border": "#383838",
+        "dropdown.foreground": "#d6d6dd",
+        "editor.background": "#181818",
+        "editor.findMatchBackground": "#163764",
+        "editor.findMatchBorder": "#00000000",
+        "editor.findMatchHighlightBackground": "#7c511a",
+        "editor.findMatchHighlightBorder": "#d7d7dd02",
+        "editor.findRangeHighlightBackground": "#1d1d1d",
+        "editor.findRangeHighlightBorder": "#d6d6dd00",
+        "editor.foldBackground": "#1d1d1d",
+        "editor.foreground": "#d6d6dd",
+        "editor.hoverHighlightBackground": "#5b51ec70",
+        "editor.inactiveSelectionBackground": "#363636",
+        "editor.lineHighlightBackground": null,
+        "editor.lineHighlightBorder": "#282828"
+    },
+    "tokenColors": [
+        {
+            "scope": ["string"],
+            "settings": {
+                "foreground": "#00FF9D"
+            }
+        },
+        {
+            "scope": ["keyword"],
+            "settings": {
+                "foreground": "#FF79C6"
+            }
+        },
+        {
+            "scope": ["variable"],
+            "settings": {
+                "foreground": "#ffffff"
+            }
+        },
+        {
+            "scope": ["constant"],
+            "settings": {
+                "foreground": "#FFB86C"
+            }
+        },
+        {
+            "scope": ["comment"],
+            "settings": {
+                "foreground": "#7A8B9C"
+            }
+        },
+        {
+            "scope": ["entity.name.function"],
+            "settings": {
+                "foreground": "#00FFE5"
+            }
+        }
+    ]
+}
