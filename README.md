@@ -1,18 +1,32 @@
-# Anysphere Modern Theme
+# IsmOLED Theme
 
 A modern, carefully crafted theme for Windsurf that enhances visual clarity and reduces eye strain. This theme is designed to provide an optimal coding experience while maintaining aesthetic appeal.
 
+⚠️ **EXPERIMENTAL STATUS**
+This theme and its installation script are currently experimental and have not been tested. Use at your own risk and make sure to backup any existing theme configurations before installation.
+
 ## Overview
 
-The Anysphere Modern Theme is the primary theming system for Windsurf's visual appearance. It's designed to create a consistent and pleasant visual environment for developers working in the Windsurf IDE.
+The IsmOLED Theme is the primary theming system for Windsurf's visual appearance. It's designed to create a consistent and pleasant visual environment for developers working in the Windsurf IDE.
 
 ## Installation
 
-The theme is located at:
+1. Make sure Windsurf is not running
+2. Run the installation script:
+   ```bash
+   ./install-windsurf-theme.sh
+   ```
+3. Start Windsurf
+4. Select the theme:
+   - Go to View -> Theme
+   - Choose "IsmOLED" from the theme list
 
-```text
-.windsurf/extensions/gustavoprietodepaula.anysphere-modern-1.0.1/themes/Anysphere Modern-color-theme.json
-```
+The installation script will:
+- Create the necessary extension directory structure
+- Install the theme files in the correct location
+- Set up the required metadata
+
+The theme will be installed to: `~/.windsurf/extensions/ismar.ismar-oled-theme-1.0.0/`
 
 ## Features
 

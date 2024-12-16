@@ -1,5 +1,10 @@
 #!/bin/bash
 
+echo "⚠️  WARNING: This installation script is experimental and has not been tested yet."
+echo "⚠️  Use at your own risk. Make sure to backup any existing theme configurations."
+echo "⚠️  Press Ctrl+C to cancel or Enter to continue..."
+read
+
 # Configuration
 THEME_NAME="ismar-oled-theme"
 THEME_DISPLAY_NAME="IsmOLED Theme"
